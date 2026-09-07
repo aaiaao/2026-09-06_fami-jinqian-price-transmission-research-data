@@ -1,0 +1,195 @@
+﻿ticker,official_token_name,rhj_registry_contract_address,yahoo_ticker,shares_outstanding,underlying_last_price_usd,equity_market_cap_usd,yahoo_quote_type,yahoo_finance_quote_url,yfinance_status,market_data_checked_at_utc
+AAOI,Applied Optoelectronics • Robinhood Token,0x521cf887e6531c6f667b5bc4d896e5d9bfe8eb2e,AAOI,84906289,105.53,8960160768,EQUITY,https://finance.yahoo.com/quote/AAOI/,ok,2026-09-06T01:03:51.563407+00:00
+AAPL,Apple • Robinhood Token,0xaf3d76f1834a1d425780943c99ea8a608f8a93f9,AAPL,14594180000,319.97,4669700046848,EQUITY,https://finance.yahoo.com/quote/AAPL/,ok,2026-09-06T01:03:53.333842+00:00
+ABCL,Abcellera Biologics • Robinhood Token,0x3139d77ace0cbaa5bdfd38bd1f1911a794af0b0e,ABCL,324047363,11.43,3703861504,EQUITY,https://finance.yahoo.com/quote/ABCL/,ok,2026-09-06T01:03:54.800912+00:00
+ADBE,Adobe • Robinhood Token,0x232b8ed6377be97813853b0ac104c4cda8378d1b,ADBE,397500000,266.51,105937731584,EQUITY,https://finance.yahoo.com/quote/ADBE/,ok,2026-09-06T01:03:56.363968+00:00
+AEHR,Aehr • Robinhood Token,0x5f604fba1162193a4388a5dfa56f556f3e133cc2,AEHR,32620450,86.26,2813840128,EQUITY,https://finance.yahoo.com/quote/AEHR/,ok,2026-09-06T01:03:57.942912+00:00
+AEIS,Advanced Energy • Robinhood Token,0xfaf9cb261b5fcc1f404bb10cd39c5c6c1974e612,AEIS,40050442,280.9,11250168832,EQUITY,https://finance.yahoo.com/quote/AEIS/,ok,2026-09-06T01:03:59.495262+00:00
+ALAB,"Astera Labs, Inc. • Robinhood Token",0x748c32c3ca24edf31ea597db1f3d330a7a6da3dc,ALAB,173485104,310.4,53849776128,EQUITY,https://finance.yahoo.com/quote/ALAB/,ok,2026-09-06T01:04:00.965839+00:00
+AMAT,Applied Materials • Robinhood Token,0x36046893810a7e7fce501229d57dc3fc8c8716d0,AMAT,793597443,454.71,360856682496,EQUITY,https://finance.yahoo.com/quote/AMAT/,ok,2026-09-06T01:04:02.494049+00:00
+AMBA,Ambarella • Robinhood Token,0x99d9d8663545151603863c5acbd6fc3218899009,AMBA,44140971,62.89,2776025600,EQUITY,https://finance.yahoo.com/quote/AMBA/,ok,2026-09-06T01:04:04.067632+00:00
+AMC,AMC Entertainment • Robinhood Token,0x05a3d1cd21d0c88145e82600e62e7e496e0f222b,AMC,892604638,2.65,2365402368,EQUITY,https://finance.yahoo.com/quote/AMC/,ok,2026-09-06T01:04:05.680959+00:00
+AMD,AMD • Robinhood Token,0x86923f96303d656e4aa86d9d42d1e57ad2023fdc,AMD,1632475042,477.57,779621105664,EQUITY,https://finance.yahoo.com/quote/AMD/,ok,2026-09-06T01:04:07.213865+00:00
+AMKR,Amkor Technology • Robinhood Token,0xdd356aa38f40a7b7076755ac854b6fbb1f0d305b,AMKR,248452472,47.77,11868574720,EQUITY,https://finance.yahoo.com/quote/AMKR/,ok,2026-09-06T01:04:08.684861+00:00
+AMZN,Amazon • Robinhood Token,0x12f190a9f9d7d37a250758b26824b97ce941bf54,AMZN,10786313572,258.51,2788369891328,EQUITY,https://finance.yahoo.com/quote/AMZN/,ok,2026-09-06T01:04:10.357591+00:00
+ANET,Arista • Robinhood Token,0x28babd556b60e53663b8615036479a29c2cdd1bf,ANET,1261224648,193.78,244400128000,EQUITY,https://finance.yahoo.com/quote/ANET/,ok,2026-09-06T01:04:11.825567+00:00
+APLD,Applied Digital • Robinhood Token,0xb8dbf92f9741c9ac1c32115e78581f23509916fd,APLD,287883603,26.37,7497091584,EQUITY,https://finance.yahoo.com/quote/APLD/,ok,2026-09-06T01:04:13.329725+00:00
+APP,AppLovin • Robinhood Token,0xa249baf1063af884807c1e1400aef7784836917e,APP,335939521,320.56,107688771584,EQUITY,https://finance.yahoo.com/quote/APP/,ok,2026-09-06T01:04:15.080366+00:00
+ASML,ASML Holding NV • Robinhood Token,0x47f93d52cbec7c6d2cfc080e154002370a60daea,ASML,384100000,1714.88,658685427712,EQUITY,https://finance.yahoo.com/quote/ASML/,ok,2026-09-06T01:04:16.933545+00:00
+ASTS,AST SpaceMobile • Robinhood Token,0x1af6446f07eb1d97c546afc8c9544cbdf3ad5137,ASTS,299789305,62.31,24249026560,EQUITY,https://finance.yahoo.com/quote/ASTS/,ok,2026-09-06T01:04:18.387416+00:00
+AUR,Aurora Innovation • Robinhood Token,0x373c06c4f7bde527d7dae4ba169e42b55e393ced,AUR,2004155268,6.34,12706344960,EQUITY,https://finance.yahoo.com/quote/AUR/,ok,2026-09-06T01:04:20.067961+00:00
+AVAV,AeroVironment • Robinhood Token,0xf6290b5e7c26502e2da514c31509849718ea76a5,AVAV,50822615,144.65,7351491072,EQUITY,https://finance.yahoo.com/quote/AVAV/,ok,2026-09-06T01:04:21.517220+00:00
+AVGO,Broadcom • Robinhood Token,0x156e175dd063a8ce274c50654ef40e0032b3fbcf,AVGO,4757580198,357.895,1702714146816,EQUITY,https://finance.yahoo.com/quote/AVGO/,ok,2026-09-06T01:04:22.979106+00:00
+AXON,Axon • Robinhood Token,0xc27dbd474af5181c5a8777903690d8d262d12648,AXON,81237415,515.67,41891696640,EQUITY,https://finance.yahoo.com/quote/AXON/,ok,2026-09-06T01:04:24.551749+00:00
+AXTI,AXT • Robinhood Token,0x141eea040c2250eec0314e336975e81f85f6585e,AXTI,65573212,61.64,4041932800,EQUITY,https://finance.yahoo.com/quote/AXTI/,ok,2026-09-06T01:04:26.083704+00:00
+BA,Boeing • Robinhood Token,0x4d21483a44bf67a86b77e3da301411880797d452,BA,790370020,212.25,167756038144,EQUITY,https://finance.yahoo.com/quote/BA/,ok,2026-09-06T01:04:27.658314+00:00
+BABA,Alibaba • Robinhood Token,0xad25ac6c84d497db898fa1e8387bf6af3532a1c4,BABA,2485623615,113.24,281472008192,EQUITY,https://finance.yahoo.com/quote/BABA/,ok,2026-09-06T01:04:29.120467+00:00
+BB,Blackberry • Robinhood Token,0x48e39e56acdba37b09020c0b734a613c9a2f100a,BB,586100431,7.7,4512973312,EQUITY,https://finance.yahoo.com/quote/BB/,ok,2026-09-06T01:04:30.576229+00:00
+BE,Bloom Energy • Robinhood Token,0x822cc93ffd030293e9842c30bbd678f530701867,BE,294527346,252.87,74477133824,EQUITY,https://finance.yahoo.com/quote/BE/,ok,2026-09-06T01:04:32.156547+00:00
+BND,Vanguard Total Bond Market ETF • Robinhood Token,0x2f62fc9fabb470c690f141c28340ed832bb27020,BND,,71.95,,ETF,https://finance.yahoo.com/quote/BND/,ok,2026-09-06T01:04:33.753642+00:00
+BULL,Webull • Robinhood Token,0xcef9027c7d6985b85f0ba431125073529a947a68,BULL,529764411,9.74,5255902720,EQUITY,https://finance.yahoo.com/quote/BULL/,ok,2026-09-06T01:04:35.341517+00:00
+CBRS,Cerebras Systems • Robinhood Token,0x5c90450bbb4273d7b2f17cf6917aeb237a569679,CBRS,237564041,210.05,49900331008,EQUITY,https://finance.yahoo.com/quote/CBRS/,ok,2026-09-06T01:04:36.851028+00:00
+CCL,Carnival Corporation • Robinhood Token,0x9651342cea770ae9a2969ba2a52611523146aef9,CCL,1369649119,23.51,32200452096,EQUITY,https://finance.yahoo.com/quote/CCL/,ok,2026-09-06T01:04:38.444207+00:00
+CEG,Constellation Energy • Robinhood Token,0xae517a2903e68bd929dfd15be875f8369d53e94a,CEG,354307379,298.96,105923731456,EQUITY,https://finance.yahoo.com/quote/CEG/,ok,2026-09-06T01:04:39.988229+00:00
+CELH,Celsius • Robinhood Token,0x8cf07c5a878945185d327aaa6e33faa95f95e7bf,CELH,253035047,30.66,7758054400,EQUITY,https://finance.yahoo.com/quote/CELH/,ok,2026-09-06T01:04:41.447352+00:00
+CIEN,Ciena • Robinhood Token,0x44f6d488021f8233b9416294d1fe9b1fee28382d,CIEN,141808525,321.0,45520535552,EQUITY,https://finance.yahoo.com/quote/CIEN/,ok,2026-09-06T01:04:42.994502+00:00
+CLOV,Clover Health Investments • Robinhood Token,0x62200915e7deab1ec7f79fb246dadbb80eacddd0,CLOV,531156263,4.255,2260069888,EQUITY,https://finance.yahoo.com/quote/CLOV/,ok,2026-09-06T01:04:44.474598+00:00
+CLS,Celestica • Robinhood Token,0xbf449977089c718c004a66c554b26b94ef3ad4de,CLS,126111117,312.35,39390810112,EQUITY,https://finance.yahoo.com/quote/CLS/,ok,2026-09-06T01:04:46.413085+00:00
+CLSK,CleanSpark • Robinhood Token,0xcbb95bbf36099d34da091dc6fa6f49efa257cee3,CLSK,256817073,12.69,3259008512,EQUITY,https://finance.yahoo.com/quote/CLSK/,ok,2026-09-06T01:04:47.874120+00:00
+COHR,Coherent • Robinhood Token,0x92f9f459f1a9a5ad266b182be7bffd1c6c666894,COHR,195832246,281.86,55197274112,EQUITY,https://finance.yahoo.com/quote/COHR/,ok,2026-09-06T01:04:49.322455+00:00
+COIN,Coinbase • Robinhood Token,0x6330d8c3178a418788df01a47479c0ce7ccf450b,COIN,263836923,184.64,48714850304,EQUITY,https://finance.yahoo.com/quote/COIN/,ok,2026-09-06T01:04:50.871823+00:00
+COST,Costco • Robinhood Token,0x4ea005168d7f09a7a0ba9d1def21a479950e44c2,COST,443478804,915.74,406111289344,EQUITY,https://finance.yahoo.com/quote/COST/,ok,2026-09-06T01:04:52.334333+00:00
+CRCL,Circle Internet Group • Robinhood Token,0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5,CRCL,253875881,102.05,27818229760,EQUITY,https://finance.yahoo.com/quote/CRCL/,ok,2026-09-06T01:04:53.871620+00:00
+CRDO,Credo Technology Group • Robinhood Token,0x4d67253bc223e6b0e104f1084c1fb2b669ddc41b,CRDO,187951918,170.57,32058959872,EQUITY,https://finance.yahoo.com/quote/CRDO/,ok,2026-09-06T01:04:55.440104+00:00
+CRM,Salesforce • Robinhood Token,0xd95b44124e475743a7589e68f3d74008a5536d44,CRM,823000000,259.23,213346304000,EQUITY,https://finance.yahoo.com/quote/CRM/,ok,2026-09-06T01:04:56.897748+00:00
+CRWD,CrowdStrike Holdings • Robinhood Token,0xea72ecca2d0f6bfa1394dbbcff85b52cd4233931,CRWD,1023934842,213.1,218200522752,EQUITY,https://finance.yahoo.com/quote/CRWD/,ok,2026-09-06T01:04:58.483302+00:00
+CRWV,CoreWeave • Robinhood Token,0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3,CRWV,551536602,89.36,49285308416,EQUITY,https://finance.yahoo.com/quote/CRWV/,ok,2026-09-06T01:04:59.937497+00:00
+CSCO,Cisco Systems • Robinhood Token,0xf543967eebb6f1917992ef0e68de63ab07a5a0da,CSCO,3942586873,109.2,430530461696,EQUITY,https://finance.yahoo.com/quote/CSCO/,ok,2026-09-06T01:05:01.483114+00:00
+CTSH,Cognizant • Robinhood Token,0x63d5a3b6939a33f1e75d8bcd85759858239600db,CTSH,473000000,62.31,28067180544,EQUITY,https://finance.yahoo.com/quote/CTSH/,ok,2026-09-06T01:05:02.945870+00:00
+CVNA,Carvana • Robinhood Token,0xa4f319104089fe321dc8093c6e707d4fe190a988,CVNA,719916415,74.59,82680307712,EQUITY,https://finance.yahoo.com/quote/CVNA/,ok,2026-09-06T01:05:04.555200+00:00
+DDOG,Datadog • Robinhood Token,0x27c99fbde9d0d2aa4f4bfb4943f237843ddf6958,DDOG,359075024,212.93,76457836544,EQUITY,https://finance.yahoo.com/quote/DDOG/,ok,2026-09-06T01:05:06.208167+00:00
+DELL,Dell • Robinhood Token,0x941ae714ec6d8130c7b75d67160ca08f1e7d11dd,DELL,646142428,524.14,338669076480,EQUITY,https://finance.yahoo.com/quote/DELL/,ok,2026-09-06T01:05:07.778825+00:00
+DJT,Trump Media & Technology Group • Robinhood Token,0x1d11f0496982706c5e14a514d4e79f2e6bde4516,DJT,277941274,9.02,2507030528,EQUITY,https://finance.yahoo.com/quote/DJT/,ok,2026-09-06T01:05:09.250606+00:00
+DOCN,DigitalOcean • Robinhood Token,0xc02f12b9fe9e707079ec0d546f3050d3f6c1f8bd,DOCN,116908096,112.47,13224172544,EQUITY,https://finance.yahoo.com/quote/DOCN/,ok,2026-09-06T01:05:10.825429+00:00
+ELF,e.l.f. Beauty • Robinhood Token,0x39ec44bee4f6a116c6f9b8de566848a985c53c60,ELF,59007996,109.67,6471406592,EQUITY,https://finance.yahoo.com/quote/ELF/,ok,2026-09-06T01:05:12.537923+00:00
+EWT,iShares MSCI Taiwan Capped ETF • Robinhood Token,0x1c690498150252222c275a5ced69d3a6b1f52d5e,EWT,85000000,112.18,,ETF,https://finance.yahoo.com/quote/EWT/,ok,2026-09-06T01:05:14.141252+00:00
+EWY,iShares MSCI South Korea fund • Robinhood Token,0x7f0abef0c07280f82c6a08ead09ded6bae2c13fc,EWY,75600000,188.87,,ETF,https://finance.yahoo.com/quote/EWY/,ok,2026-09-06T01:05:15.644625+00:00
+F,Ford Motor • Robinhood Token,0x25c288e6d899b9bc30160965ad9644c67e73be0c,F,3987595667,14.62,58298650624,EQUITY,https://finance.yahoo.com/quote/F/,ok,2026-09-06T01:05:17.084800+00:00
+FICO,Fair Isaac • Robinhood Token,0xa48f22a46c0f1c46ca7d111cb6c137c271987180,FICO,21597635,932.26,20134612992,EQUITY,https://finance.yahoo.com/quote/FICO/,ok,2026-09-06T01:05:18.553456+00:00
+FIG,Figma • Robinhood Token,0x41f4267525a8aff329540ef24fd83d9044758b33,FIG,533009867,24.12,12856198144,EQUITY,https://finance.yahoo.com/quote/FIG/,ok,2026-09-06T01:05:20.234739+00:00
+FISV,Fiserv • Robinhood Token,0x9ece29a4a2397c0a35fb5fa8ee2b9509130a98cc,FISV,531766721,53.0,28183635968,EQUITY,https://finance.yahoo.com/quote/FISV/,ok,2026-09-06T01:05:21.691800+00:00
+FIX,Comfort Systems • Robinhood Token,0x93dbb1d2dc5d63f4abacff30485273f538df68ac,FIX,35194329,1610.34,56674832384,EQUITY,https://finance.yahoo.com/quote/FIX/,ok,2026-09-06T01:05:23.946791+00:00
+FLNC,Fluence Energy • Robinhood Token,0x282e87451e10fa6679bc7d76c69be44cd3fc777c,FLNC,143163588,10.35,1924162176,EQUITY,https://finance.yahoo.com/quote/FLNC/,ok,2026-09-06T01:05:25.621503+00:00
+FLY,Firefly Aerospace Inc. • Robinhood Token,0x03bc731ffb162cdd7b98d3c6542bfc291126075d,FLY,167404645,21.67,3627658496,EQUITY,https://finance.yahoo.com/quote/FLY/,ok,2026-09-06T01:05:27.187501+00:00
+FTNT,Fortinet • Robinhood Token,0x3fb8976980d486084b2eb4a404bd12e72823958f,FTNT,733713653,156.29,114672107520,EQUITY,https://finance.yahoo.com/quote/FTNT/,ok,2026-09-06T01:05:29.005020+00:00
+FUTU,Futu Holdings • Robinhood Token,0xeb30663bdff0622ef4e4e5cbb4e975f19f33f51d,FUTU,140194488,121.75,17068680192,EQUITY,https://finance.yahoo.com/quote/FUTU/,ok,2026-09-06T01:05:30.668208+00:00
+GE,General Electric • Robinhood Token,0x63b814ddbd6bf339f25fed8c36158a008d5b373e,GE,1037562513,337.12,349783064576,EQUITY,https://finance.yahoo.com/quote/GE/,ok,2026-09-06T01:05:32.186838+00:00
+GEV,GE Vernova • Robinhood Token,0x94b8aae43a1ccc08aa64b7d1f29b4d920af4a0c9,GEV,266333581,941.95,250872922112,EQUITY,https://finance.yahoo.com/quote/GEV/,ok,2026-09-06T01:05:33.725181+00:00
+GLD,SPDR Gold Trust • Robinhood Token,0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e,GLD,260300000,406.77,,ETF,https://finance.yahoo.com/quote/GLD/,ok,2026-09-06T01:05:35.191727+00:00
+GLW,Corning • Robinhood Token,0x7c04e6a3368f2a1de3874f0e80d2e0a1a9915da6,GLW,859637825,154.3,132912226304,EQUITY,https://finance.yahoo.com/quote/GLW/,ok,2026-09-06T01:05:36.771328+00:00
+GLXY,Galaxy Digital Inc. • Robinhood Token,0x2d427692e928fa156ec22acfabafa0447c5805b7,GLXY,194292392,26.33,15516198912,EQUITY,https://finance.yahoo.com/quote/GLXY/,ok,2026-09-06T01:05:38.222792+00:00
+GME,GameStop • Robinhood Token,0x1b0e319c6a659f002271b69db8a7df2f911c153e,GME,448691257,19.16,8596924416,EQUITY,https://finance.yahoo.com/quote/GME/,ok,2026-09-06T01:05:39.767757+00:00
+GOOGL,Alphabet Class A • Robinhood Token,0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3,GOOGL,12229934831,338.46,4139343675392,EQUITY,https://finance.yahoo.com/quote/GOOGL/,ok,2026-09-06T01:05:41.370186+00:00
+HII,Huntington Ingalls • Robinhood Token,0xeb61c0ed490a367d4e3631ccf8a74b3bfc7e775d,HII,39404598,285.93,11266957312,EQUITY,https://finance.yahoo.com/quote/HII/,ok,2026-09-06T01:05:43.249019+00:00
+HIMS,Hims & Hers Health • Robinhood Token,0xccee82fe024c36fa15e1005ede3e9e4787e23d09,HIMS,233313413,27.71,6465114112,EQUITY,https://finance.yahoo.com/quote/HIMS/,ok,2026-09-06T01:05:44.774632+00:00
+HPE,HP Enterprise • Robinhood Token,0x59dd09d4900c2e4b5f75b7c0d4e6796fcc234cb1,HPE,1327464779,52.0,69028167680,EQUITY,https://finance.yahoo.com/quote/HPE/,ok,2026-09-06T01:05:46.379751+00:00
+HWM,Howmet Aerospace • Robinhood Token,0xaea445c5f3db1a462998ccc422a875a361ee5d99,HWM,398801399,259.27,103397236736,EQUITY,https://finance.yahoo.com/quote/HWM/,ok,2026-09-06T01:05:47.913286+00:00
+IBM,IBM • Robinhood Token,0x980dcf6766fa79f5cf0c4aadb3ab477ff15a9619,IBM,942134390,234.89,221297950720,EQUITY,https://finance.yahoo.com/quote/IBM/,ok,2026-09-06T01:05:49.501070+00:00
+IBRX,"ImmunityBio, • Robinhood Token",0x7c148f74ac7445d1f28366b7fcdc6792a9fcd0cf,IBRX,1059836273,8.08,8563476992,EQUITY,https://finance.yahoo.com/quote/IBRX/,ok,2026-09-06T01:05:51.086846+00:00
+INDA,iShares MSCI India ETF • Robinhood Token,0xacef2e09adb47ad6abebad9ff06689e60615c2b6,INDA,,49.91,,ETF,https://finance.yahoo.com/quote/INDA/,ok,2026-09-06T01:05:52.638627+00:00
+INFQ,Infleqtion • Robinhood Token,0xb853bc83a753342a4f8320ea680b4b1e84118d21,INFQ,225357052,12.85,2895838208,EQUITY,https://finance.yahoo.com/quote/INFQ/,ok,2026-09-06T01:05:54.162870+00:00
+INOD,Innodata • Robinhood Token,0xf1953dab6fad537488d5a022361ffaa8b4c95ec6,INOD,34382651,55.66,1913738368,EQUITY,https://finance.yahoo.com/quote/INOD/,ok,2026-09-06T01:05:56.262901+00:00
+INTC,Intel • Robinhood Token,0xc72b96e0e48ecd4dc75e1e45396e26300bc39681,INTC,5286105262,95.8,506408894464,EQUITY,https://finance.yahoo.com/quote/INTC/,ok,2026-09-06T01:05:57.835607+00:00
+INTU,Intuit • Robinhood Token,0x56d23bee5f41a7120170b0c603dae30128e460e9,INTU,273537000,332.7,91005763584,EQUITY,https://finance.yahoo.com/quote/INTU/,ok,2026-09-06T01:05:59.285154+00:00
+IONQ,IonQ • Robinhood Token,0x558378e000d634a36593e338ebacdd6207640efe,IONQ,405135656,39.52,16010960896,EQUITY,https://finance.yahoo.com/quote/IONQ/,ok,2026-09-06T01:06:00.773424+00:00
+IREN,IREN Limited • Robinhood Token,0xf0ab0c93be6f41369d302e55db1a96b3c430212d,IREN,357378674,44.68,17606541312,EQUITY,https://finance.yahoo.com/quote/IREN/,ok,2026-09-06T01:06:02.312243+00:00
+JBL,Jabil Inc. • Robinhood Token,0xeaf2512dfc1beac608f8794b3793cd4e02894aa6,JBL,104787089,310.57,32543727616,EQUITY,https://finance.yahoo.com/quote/JBL/,ok,2026-09-06T01:06:03.920181+00:00
+JNJ,Johnson & Johnson • Robinhood Token,0x03dfbbe0ac4e7bcdafd08ed41a400326b77d8c80,JNJ,2409898597,275.23,663276421120,EQUITY,https://finance.yahoo.com/quote/JNJ/,ok,2026-09-06T01:06:05.453278+00:00
+JOBY,Joby Aviation • Robinhood Token,0xb334c5ce741b80b5b671f47f5c269cb193fe8e24,JOBY,989124237,6.74,6666697216,EQUITY,https://finance.yahoo.com/quote/JOBY/,ok,2026-09-06T01:06:07.090268+00:00
+KLAC,KLA • Robinhood Token,0x96b933c74ecb4a0926b9210cef7b743ef46be2e9,KLAC,1306546783,185.6,242495094784,EQUITY,https://finance.yahoo.com/quote/KLAC/,ok,2026-09-06T01:06:08.968667+00:00
+KSS,Kohls Corporation • Robinhood Token,0x12e3c047bf9aecaf9ddc98c05c31bfd1dd043993,KSS,113376445,19.44,2204038144,EQUITY,https://finance.yahoo.com/quote/KSS/,ok,2026-09-06T01:06:10.461440+00:00
+KTOS,Kratos Defense & Security Solutions • Robinhood Token,0x7fd06a4d81ccfa3f351394e144d5191874c31313,KTOS,187519984,47.82,8976833536,EQUITY,https://finance.yahoo.com/quote/KTOS/,ok,2026-09-06T01:06:11.992611+00:00
+LHX,L3Harris • Robinhood Token,0x48d60243c66437c6ac3c2495be94747aed5dfe25,LHX,186214616,256.45,47754743808,EQUITY,https://finance.yahoo.com/quote/LHX/,ok,2026-09-06T01:06:13.579463+00:00
+LITE,Lumentum • Robinhood Token,0x8ef20885f94e3d9bc7eb3080279188bd5ed7c08c,LITE,89700000,881.255,79048572928,EQUITY,https://finance.yahoo.com/quote/LITE/,ok,2026-09-06T01:06:15.667221+00:00
+LLY,Eli Lilly • Robinhood Token,0x8005d266423c7ea827372c9c864491e5786600ea,LLY,891741406,1149.36,1024931856384,EQUITY,https://finance.yahoo.com/quote/LLY/,ok,2026-09-06T01:06:17.241612+00:00
+LMT,Lockheed • Robinhood Token,0x329fcaceb9ad6f9580dd5f643fed0646900d043c,LMT,230790753,525.28,121229770752,EQUITY,https://finance.yahoo.com/quote/LMT/,ok,2026-09-06T01:06:18.700755+00:00
+LRCX,Lam Research Corp • Robinhood Token,0x57b0030166db0c31690d1a5aa167e2e26e2c29a4,LRCX,1251321000,307.65,384968884224,EQUITY,https://finance.yahoo.com/quote/LRCX/,ok,2026-09-06T01:06:20.282158+00:00
+LULU,Lululemon • Robinhood Token,0x4e62068525ab11fe768e29dfd00ef909b9803016,LULU,110710025,100.61,11138535424,EQUITY,https://finance.yahoo.com/quote/LULU/,ok,2026-09-06T01:06:21.725731+00:00
+LUNR,Intuitive Machines • Robinhood Token,0xa5d4968421ba94814be3b136b15cf422101ac1a3,LUNR,160452309,14.81,2376298752,EQUITY,https://finance.yahoo.com/quote/LUNR/,ok,2026-09-06T01:06:23.286146+00:00
+MDB,MongoDB • Robinhood Token,0xddf2266b79abf0b48898959b0ed6e6adf512be74,MDB,80556341,368.74,29658468352,EQUITY,https://finance.yahoo.com/quote/MDB/,ok,2026-09-06T01:06:24.856016+00:00
+META,Meta Platforms • Robinhood Token,0xc0d6457c16cc70d6790dd43521c899c87ce02f35,META,2547506225,616.77,1571225468928,EQUITY,https://finance.yahoo.com/quote/META/,ok,2026-09-06T01:06:26.449002+00:00
+MOD,Modine • Robinhood Token,0xc6cbad1016b38b797610c25e1dc7d95988b1f362,MOD,53112708,194.66,10338919424,EQUITY,https://finance.yahoo.com/quote/MOD/,ok,2026-09-06T01:06:28.034918+00:00
+MPWR,Monolithic Power Systems • Robinhood Token,0x52d50d0280ad1054b43f052bd70a49a212a1b128,MPWR,49143000,1223.86,60144152576,EQUITY,https://finance.yahoo.com/quote/MPWR/,ok,2026-09-06T01:06:30.277253+00:00
+MRNA,Moderna • Robinhood Token,0x43b07d15ce533bec5476d70c22a78a1b2b662155,MRNA,399235889,145.55,58108788736,EQUITY,https://finance.yahoo.com/quote/MRNA/,ok,2026-09-06T01:06:31.888583+00:00
+MRVL,Marvell Technology • Robinhood Token,0x62fd0668e10d8b72339be2dcf7643001688ff13b,MRVL,898704613,223.55,200905424896,EQUITY,https://finance.yahoo.com/quote/MRVL/,ok,2026-09-06T01:06:33.421949+00:00
+MSFT,Microsoft • Robinhood Token,0xe93237c50d904957cf27e7b1133b510c669c2e74,MSFT,7425545491,499.7,3710545297408,EQUITY,https://finance.yahoo.com/quote/MSFT/,ok,2026-09-06T01:06:35.336511+00:00
+MSTR,Strategy Inc. • Robinhood Token,0xec262a75e413fafd0df80480274532c79d42da09,MSTR,397281660,142.8,56731824128,EQUITY,https://finance.yahoo.com/quote/MSTR/,ok,2026-09-06T01:06:36.843369+00:00
+MTSI,MACOM • Robinhood Token,0xc93f4d80e268ab922e871bd169156c3cc41894e6,MTSI,76370931,268.95,20539961344,EQUITY,https://finance.yahoo.com/quote/MTSI/,ok,2026-09-06T01:06:38.423421+00:00
+MU,Micron Technology • Robinhood Token,0xff080c8ce2e5feadaca0da81314ae59d232d4afd,MU,1129393151,1016.59,1148129771520,EQUITY,https://finance.yahoo.com/quote/MU/,ok,2026-09-06T01:06:39.995176+00:00
+MXL,MaxLinear • Robinhood Token,0x48961813349333209994750ffa89b3c5c22ec969,MXL,90693191,62.74,5690091008,EQUITY,https://finance.yahoo.com/quote/MXL/,ok,2026-09-06T01:06:41.699207+00:00
+NAVN,Navan • Robinhood Token,0xf7181b63fdb858558a74ba96bc42732684cd7965,NAVN,254331262,27.78,7065322496,EQUITY,https://finance.yahoo.com/quote/NAVN/,ok,2026-09-06T01:06:43.198990+00:00
+NBIS,Nebius Group • Robinhood Token,0x9d9c6684f596f66a64c030b93a886d51fd4d7931,NBIS,271855218,226.39,61545304064,EQUITY,https://finance.yahoo.com/quote/NBIS/,ok,2026-09-06T01:06:44.718389+00:00
+NET,"Cloudflare, Inc. Class A common stock • Robinhood Token",0x116f00968269b7bfbad4109ce591d6e74c0601d4,NET,356079715,278.92,99317760000,EQUITY,https://finance.yahoo.com/quote/NET/,ok,2026-09-06T01:06:46.419712+00:00
+NFLX,Netflix • Robinhood Token,0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8,NFLX,4163939676,78.25,325828280320,EQUITY,https://finance.yahoo.com/quote/NFLX/,ok,2026-09-06T01:06:47.905403+00:00
+NNE,Nano Nuclear Energy • Robinhood Token,0xbef75684c43c4ea7bd18dd532a2244674ee8b926,NNE,53698146,17.72,951531072,EQUITY,https://finance.yahoo.com/quote/NNE/,ok,2026-09-06T01:06:49.439979+00:00
+NOW,ServiceNow • Robinhood Token,0x0c3260af4b8f13a69c4c2dfb84fd667890cdfa14,NOW,1033862000,141.26,146043338752,EQUITY,https://finance.yahoo.com/quote/NOW/,ok,2026-09-06T01:06:51.006832+00:00
+NU,Nu • Robinhood Token,0x408c14038a04f7bd235329e26d2bf569ee20e250,NU,4830688659,15.37,74247684096,EQUITY,https://finance.yahoo.com/quote/NU/,ok,2026-09-06T01:06:52.576144+00:00
+NVDA,NVIDIA • Robinhood Token,0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec,NVDA,24147000000,230.36,5562502742016,EQUITY,https://finance.yahoo.com/quote/NVDA/,ok,2026-09-06T01:06:54.032686+00:00
+NVTS,Navitas Semiconductor • Robinhood Token,0xbe6702d7b70315376dc48a3293f24f0982f86386,NVTS,261093488,11.8,3080903168,EQUITY,https://finance.yahoo.com/quote/NVTS/,ok,2026-09-06T01:06:55.574995+00:00
+OKLO,Oklo • Robinhood Token,0x8b2f88497f15a18e9d4ffa1a8ffb8538399ae774,OKLO,186017650,41.27,7676948480,EQUITY,https://finance.yahoo.com/quote/OKLO/,ok,2026-09-06T01:06:57.052129+00:00
+ON,ON Semiconductor • Robinhood Token,0xbbd09f72b025360fee5c928053dca6248d35be54,ON,389318613,74.38,28957517824,EQUITY,https://finance.yahoo.com/quote/ON/,ok,2026-09-06T01:06:58.587163+00:00
+ONTO,Onto Innovation • Robinhood Token,0x8ff63eaeee3fe54ba450c4f5538064ec5a893aef,ONTO,61123436,268.01,16381692928,EQUITY,https://finance.yahoo.com/quote/ONTO/,ok,2026-09-06T01:07:00.159281+00:00
+ORCL,Oracle • Robinhood Token,0xb0992820e760d836549ba69bc7598b4af75dee03,ORCL,2880471000,158.78,457361195008,EQUITY,https://finance.yahoo.com/quote/ORCL/,ok,2026-09-06T01:07:01.625737+00:00
+OUST,Ouster • Robinhood Token,0x40e7a279850e443f582059ae5dc1c3b6563e6395,OUST,72112333,36.43,2627052544,EQUITY,https://finance.yahoo.com/quote/OUST/,ok,2026-09-06T01:07:03.080639+00:00
+P,Everpure • Robinhood Token,0x1cdad396db64bda184d5182a97dd9b3c62100b7d,P,332404932,99.51,33077614592,EQUITY,https://finance.yahoo.com/quote/P/,ok,2026-09-06T01:07:04.528799+00:00
+PANW,Palo Alto Networks • Robinhood Token,0xb039597ed45cba7b6e2fb9e8be51802969cee5be,PANW,815000000,333.26,271606906880,EQUITY,https://finance.yahoo.com/quote/PANW/,ok,2026-09-06T01:07:06.066810+00:00
+PATH,UiPath • Robinhood Token,0xfb2664f07b6aadd29ea7a59d8859b1aeb8645cda,PATH,518120266,15.19,7870246400,EQUITY,https://finance.yahoo.com/quote/PATH/,ok,2026-09-06T01:07:07.538627+00:00
+PENG,Penguin Solutions • Robinhood Token,0x9b23573b156b52565012f5ce02cdf60afbaa70be,PENG,51242699,51.76,2652322048,EQUITY,https://finance.yahoo.com/quote/PENG/,ok,2026-09-06T01:07:09.077767+00:00
+PFE,Pfizer • Robinhood Token,0x7066a64c24e4206cd62e83bf198c1e7eb361f51e,PFE,5699673589,28.45,162155724800,EQUITY,https://finance.yahoo.com/quote/PFE/,ok,2026-09-06T01:07:10.539837+00:00
+PL,Planet Labs • Robinhood Token,0xaa4d64474c172010ab57719cb9951e6142a100d3,PL,363847989,18.12,6592926208,EQUITY,https://finance.yahoo.com/quote/PL/,ok,2026-09-06T01:07:11.988956+00:00
+PLTR,Palantir Technologies • Robinhood Token,0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a,PLTR,2403058480,174.33,418925182976,EQUITY,https://finance.yahoo.com/quote/PLTR/,ok,2026-09-06T01:07:13.451985+00:00
+POET,POET Technologies • Robinhood Token,0xcf6b2d875361be807eafa57458c80f28521f9333,POET,173058088,7.92,1370620032,EQUITY,https://finance.yahoo.com/quote/POET/,ok,2026-09-06T01:07:14.982866+00:00
+POWL,Powell Industries • Robinhood Token,0x237c16d66590f67b886d978acd362eaead8b18c7,POWL,36432564,181.17,6600487424,EQUITY,https://finance.yahoo.com/quote/POWL/,ok,2026-09-06T01:07:16.464390+00:00
+PR,Permian Resources • Robinhood Token,0x4189f0c66ebbb0bfef1c31f763131361ef32f77c,PR,837557029,23.36,19565332480,EQUITY,https://finance.yahoo.com/quote/PR/,ok,2026-09-06T01:07:17.990447+00:00
+PWR,Quanta • Robinhood Token,0x9ab02ead789b6903c3c44d0ed32f9c707cdf12fd,PWR,150343393,624.41,93875912704,EQUITY,https://finance.yahoo.com/quote/PWR/,ok,2026-09-06T01:07:19.457933+00:00
+QBTS,D-Wave Quantum Inc. Common Stock • Robinhood Token,0xc583c60aef9dc401da72cec1b404743a93cea1cc,QBTS,372439933,16.58,6175054336,EQUITY,https://finance.yahoo.com/quote/QBTS/,ok,2026-09-06T01:07:20.913846+00:00
+QCOM,Qualcomm • Robinhood Token,0x0f17206447090e464c277571124dd2688e48aea9,QCOM,1068060487,168.74,180224524288,EQUITY,https://finance.yahoo.com/quote/QCOM/,ok,2026-09-06T01:07:22.564613+00:00
+QQQ,Invesco QQQ • Robinhood Token,0xd5f3879160bc7c32ebb4dc785f8a4f505888de68,QQQ,393100000,718.96,,ETF,https://finance.yahoo.com/quote/QQQ/,ok,2026-09-06T01:07:24.042037+00:00
+QUBT,Quantum Computing • Robinhood Token,0x59818904ab4ce163b3ce4ffb64f2d6ca02c434b4,QUBT,226346861,8.01,1813038464,EQUITY,https://finance.yahoo.com/quote/QUBT/,ok,2026-09-06T01:07:25.885613+00:00
+RBLX,Roblox • Robinhood Token,0xf0c4bf4c582cb3836e98394b1d4e7b7281101be8,RBLX,714375941,43.31,30939623424,EQUITY,https://finance.yahoo.com/quote/RBLX/,ok,2026-09-06T01:07:27.485210+00:00
+RCAT,Red Cat • Robinhood Token,0xfde6b5d9bb419b10c23268c74e369abff39c0460,RCAT,152714362,8.37,1278219264,EQUITY,https://finance.yahoo.com/quote/RCAT/,ok,2026-09-06T01:07:29.025233+00:00
+RDDT,Reddit • Robinhood Token,0x05b37fb53a299a1b874a619e1c4c404d52c36f4c,RDDT,192396510,154.46,29717567488,EQUITY,https://finance.yahoo.com/quote/RDDT/,ok,2026-09-06T01:07:30.574485+00:00
+RDW,Redwire • Robinhood Token,0x92ef19e82bd8ff36661de838d5eae7e5cef0effe,RDW,249992609,10.53,2632422144,EQUITY,https://finance.yahoo.com/quote/RDW/,ok,2026-09-06T01:07:32.144504+00:00
+RGTI,Rigetti Computing • Robinhood Token,0x284358abc07f9359f19f4b5b4ac91901be2597ba,RGTI,333768747,15.2,5073284608,EQUITY,https://finance.yahoo.com/quote/RGTI/,ok,2026-09-06T01:07:33.606279+00:00
+RIVN,Rivian Automotive • Robinhood Token,0xb1bf26c1d20ff267a4f93550d1e0d06ac40a114b,RIVN,1447860630,15.74,22789324800,EQUITY,https://finance.yahoo.com/quote/RIVN/,ok,2026-09-06T01:07:35.435441+00:00
+RKLB,Rocket Lab Corporation • Robinhood Token,0x3b14c39e89d60d627b42a1a4ca45b5bb45fc12e2,RKLB,639410989,64.26,41088552960,EQUITY,https://finance.yahoo.com/quote/RKLB/,ok,2026-09-06T01:07:37.385309+00:00
+RUN,Sunrun • Robinhood Token,0x756bc80af765c82da966a788858d65adf14f3793,RUN,238549287,8.89,2120703232,EQUITY,https://finance.yahoo.com/quote/RUN/,ok,2026-09-06T01:07:38.841788+00:00
+SATS,EchoStar • Robinhood Token,0x95052ddcd5dc25641657424a8cf04834997e1730,SATS,289813488,,,,https://finance.yahoo.com/quote/SATS/,ok,2026-09-06T01:07:40.303293+00:00
+SCHD,Schwab US Dividend Equity ETF • Robinhood Token,0xd63abb2c13d7a8421a8017a712802053568e3c1d,SCHD,,34.8,,ETF,https://finance.yahoo.com/quote/SCHD/,ok,2026-09-06T01:07:43.006220+00:00
+SGOV,iShares 0-3 Month Treasury Bond • Robinhood Token,0x92fd66527192e3e61d4ddd13322aa222de86f9b5,SGOV,,100.47,,ETF,https://finance.yahoo.com/quote/SGOV/,ok,2026-09-06T01:07:44.852651+00:00
+SHOP,Shopify • Robinhood Token,0xf53f66751b1eff985311b693531e3290f600c410,SHOP,1286643931,145.09,188276703232,EQUITY,https://finance.yahoo.com/quote/SHOP/,ok,2026-09-06T01:07:46.335422+00:00
+SHY,iShares 1-3 Year Treasury Bond ETF • Robinhood Token,0xbe274710bf3d9567e1b290ef6a5f9f90ca016fd8,SHY,209300000,81.69,,ETF,https://finance.yahoo.com/quote/SHY/,ok,2026-09-06T01:07:47.940282+00:00
+SIMO,Silicon Motion • Robinhood Token,0x77e655e37f4d913fb9540e0d541d824171a60e81,SIMO,33907750,256.21,8687504384,EQUITY,https://finance.yahoo.com/quote/SIMO/,ok,2026-09-06T01:07:49.481516+00:00
+SKHY,SK hynix Inc. American Depositary Shares • Robinhood Token,0x84cab63bc87912e71ad199ff14a0ba45de68fef8,SKHY,7098548910,177.0,1256443084800,EQUITY,https://finance.yahoo.com/quote/SKHY/,ok,2026-09-06T01:07:50.927878+00:00
+SLS,SELLAS Life Sciences • Robinhood Token,0x285b231728c7e4333799183df1094d775246a535,SLS,196632574,13.86,2798967552,EQUITY,https://finance.yahoo.com/quote/SLS/,ok,2026-09-06T01:07:52.901371+00:00
+SLV,iShares Silver Trust • Robinhood Token,0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f,SLV,341449984,59.82,,ETF,https://finance.yahoo.com/quote/SLV/,ok,2026-09-06T01:07:54.443354+00:00
+SMCI,Super Micro Computer • Robinhood Token,0xc01aa1fecec0605b13bc84874ff7256c0f5f562a,SMCI,646873027,39.59,26009260032,EQUITY,https://finance.yahoo.com/quote/SMCI/,ok,2026-09-06T01:07:56.062108+00:00
+SMH,VanEck Semiconductor ETF • Robinhood Token,0x072f979c2cac8e1391b0162a87fee094bf8744a0,SMH,11670900,567.01,,ETF,https://finance.yahoo.com/quote/SMH/,ok,2026-09-06T01:07:57.604363+00:00
+SMR,NuScale Power • Robinhood Token,0x1eebee7f74517e0279dfb09d25b0407beec3fdd6,SMR,410389522,9.7,3980778496,EQUITY,https://finance.yahoo.com/quote/SMR/,ok,2026-09-06T01:07:59.040855+00:00
+SNAP,Snap • Robinhood Token,0xf6589f11bc40b669e584073f428b05562f568733,SNAP,1691197712,5.47,9250850816,EQUITY,https://finance.yahoo.com/quote/SNAP/,ok,2026-09-06T01:08:00.494455+00:00
+SNDK,Sandisk Corporation • Robinhood Token,0xb90a19ff0af67f7779aff50a882a9cff42446400,SNDK,146419001,1740.0,254769070080,EQUITY,https://finance.yahoo.com/quote/SNDK/,ok,2026-09-06T01:08:01.935996+00:00
+SNOW,Snowflake • Robinhood Token,0xba0cab75495255d0cb58e22b648bfed4ecd1f47e,SNOW,346600000,337.18,116866588672,EQUITY,https://finance.yahoo.com/quote/SNOW/,ok,2026-09-06T01:08:03.396297+00:00
+SOFI,SoFi Technologies • Robinhood Token,0x98e75885157c80992a8d41b696d8c9c6fb30a926,SOFI,1291570324,18.22,23532410880,EQUITY,https://finance.yahoo.com/quote/SOFI/,ok,2026-09-06T01:08:05.300696+00:00
+SOUN,SoundHound AI • Robinhood Token,0x6e3dfd9f7e1649baa14d25cac18c94d62db10a54,SOUN,444112161,6.74,2993315840,EQUITY,https://finance.yahoo.com/quote/SOUN/,ok,2026-09-06T01:08:06.902150+00:00
+SOXX,iShares Semiconductor ETF • Robinhood Token,0x75742c18bc1f1c5c5f448f4c9d9c6f66dafaaa38,SOXX,7650000,519.86,,ETF,https://finance.yahoo.com/quote/SOXX/,ok,2026-09-06T01:08:08.606287+00:00
+SPCX,Space Exploration Technologies Corp. Class A Common Stock • Robinhood Token,0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea,SPCX,13181779945,147.95,1950244274176,EQUITY,https://finance.yahoo.com/quote/SPCX/,ok,2026-09-06T01:08:10.164828+00:00
+SPMO,Invesco S&P 500 Momentum ETF • Robinhood Token,0xad622320e520de39e72d41ef07438c3fd3354875,SPMO,,149.72,,ETF,https://finance.yahoo.com/quote/SPMO/,ok,2026-09-06T01:08:11.620907+00:00
+SPY,SPDR S&P 500 ETF Trust • Robinhood Token,0x117cc2133c37b721f49de2a7a74833232b3b4c0c,SPY,917782016,770.19,,ETF,https://finance.yahoo.com/quote/SPY/,ok,2026-09-06T01:08:13.146536+00:00
+TE,T1 Energy • Robinhood Token,0xb1969f6604ca1ae7a2cd3f1827876e914594ca2d,TE,294476525,4.6,1354824448,EQUITY,https://finance.yahoo.com/quote/TE/,ok,2026-09-06T01:08:14.645631+00:00
+TEAM,Atlassian Corporation • Robinhood Token,0x5b97476b922f3305131b8f0b9d333172e87f4aae,TEAM,253138815,189.58,47990059008,EQUITY,https://finance.yahoo.com/quote/TEAM/,ok,2026-09-06T01:08:16.180259+00:00
+TEM,Tempus AI • Robinhood Token,0xb1cc0ec7db69cf43539119814df40071b9d61793,TEM,180434756,64.62,11659694080,EQUITY,https://finance.yahoo.com/quote/TEM/,ok,2026-09-06T01:08:17.659289+00:00
+TER,Teradyne • Robinhood Token,0x2778c5024d5ca2cdb0f8ead671ffc69963adcd9c,TER,156340750,357.03,55818338304,EQUITY,https://finance.yahoo.com/quote/TER/,ok,2026-09-06T01:08:19.327107+00:00
+TSEM,Tower Semiconductor • Robinhood Token,0x89776d4cd68193597a2fc132cfac1fde36ccea8a,TSEM,113031240,222.335,25130801152,EQUITY,https://finance.yahoo.com/quote/TSEM/,ok,2026-09-06T01:08:20.930149+00:00
+TSLA,Tesla • Robinhood Token,0x322f0929c4625ed5bad873c95208d54e1c003b2d,TSLA,3949547394,354.08,1398455795712,EQUITY,https://finance.yahoo.com/quote/TSLA/,ok,2026-09-06T01:08:22.377755+00:00
+TSM,Taiwan Semiconductor Manufacturing • Robinhood Token,0x58ffe4a942d3885baa22d7520691f611ef09e7aa,TSM,5186474013,428.91,2224530653184,EQUITY,https://finance.yahoo.com/quote/TSM/,ok,2026-09-06T01:08:23.824352+00:00
+TTD,Trade Desk • Robinhood Token,0x0b5fb4031cae9163db10b169ee72685f0edc8545,TTD,469880194,14.43,6780371456,EQUITY,https://finance.yahoo.com/quote/TTD/,ok,2026-09-06T01:08:25.371263+00:00
+TTWO,Take-Two Interactive Software • Robinhood Token,0x5e81213613b6b86eab4c6c50d718d34359459786,TTWO,186980443,214.69,40142831616,EQUITY,https://finance.yahoo.com/quote/TTWO/,ok,2026-09-06T01:08:26.835796+00:00
+UMC,United Microelectronics • Robinhood Token,0x0e6e67ba88e7b5d9b67636a215c76779b948de79,UMC,2507908580,20.77,52089262080,EQUITY,https://finance.yahoo.com/quote/UMC/,ok,2026-09-06T01:08:28.391514+00:00
+UNH,UnitedHealth • Robinhood Token,0xcf364ea52787e289de6f32077834056e3e70d6a8,UNH,897594847,397.14,356470816768,EQUITY,https://finance.yahoo.com/quote/UNH/,ok,2026-09-06T01:08:29.878267+00:00
+UPS,UPS • Robinhood Token,0xf23250dac154d05bb671cb0d0ebef3c635c79ce2,UPS,850781582,102.29,87026450432,EQUITY,https://finance.yahoo.com/quote/UPS/,ok,2026-09-06T01:08:31.385940+00:00
+USAR,USA Rare Earth • Robinhood Token,0xd917b029c761d264c6a312bbbcda868658ef86a6,USAR,244720099,17.61,4309520896,EQUITY,https://finance.yahoo.com/quote/USAR/,ok,2026-09-06T01:08:32.962238+00:00
+USO,United States Oil Fund • Robinhood Token,0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344,USO,119100000,141.96,,ETF,https://finance.yahoo.com/quote/USO/,ok,2026-09-06T01:08:34.431383+00:00
+VICR,Vicor • Robinhood Token,0x6006ed4b2f94110851ff7509d97d034f0eed9226,VICR,46106732,188.55,8693424128,EQUITY,https://finance.yahoo.com/quote/VICR/,ok,2026-09-06T01:08:35.872402+00:00
+VRT,Vertiv • Robinhood Token,0xfa78c12e6488814a0262e4e802749a4a737d5fb7,VRT,384988173,280.53,108000731136,EQUITY,https://finance.yahoo.com/quote/VRT/,ok,2026-09-06T01:08:37.522154+00:00
+VSAT,ViaSat • Robinhood Token,0x26dcbfb34fc83cabd6990f449674efdc6097ff85,VSAT,137755810,75.32,10375767040,EQUITY,https://finance.yahoo.com/quote/VSAT/,ok,2026-09-06T01:08:39.004689+00:00
+VST,Vistra • Robinhood Token,0x561e2a49212b7ccf47f2744ccb83e200722fadbc,VST,335635195,149.3,50110337024,EQUITY,https://finance.yahoo.com/quote/VST/,ok,2026-09-06T01:08:40.579019+00:00
+VTI,Vanguard Morningstar Total Stock Market ETF • Robinhood Token,0x0594134df3f171a354d9c85ebd65b7a6148f6d09,VTI,743262976,379.73,,ETF,https://finance.yahoo.com/quote/VTI/,ok,2026-09-06T01:08:42.047736+00:00
+WDAY,Workday • Robinhood Token,0x82da4646242e1d962e96e932269dc644c94a9caa,WDAY,241000000,195.79,47185387520,EQUITY,https://finance.yahoo.com/quote/WDAY/,ok,2026-09-06T01:08:43.589175+00:00
+WDC,Western Digital • Robinhood Token,0xf52597345a8edf418bc4071b4a35112472277d3e,WDC,360540944,467.46,168538456064,EQUITY,https://finance.yahoo.com/quote/WDC/,ok,2026-09-06T01:08:45.209232+00:00
+WULF,TeraWulf • Robinhood Token,0x348be1a8663f15edde5cdf8a96bb69078f7ab6fd,WULF,498968677,16.51,8237972992,EQUITY,https://finance.yahoo.com/quote/WULF/,ok,2026-09-06T01:08:46.728370+00:00
+WYFI,"WhiteFiber, Inc. • Robinhood Token",0x9e7abd3c9139d14e4c86dce0e455aab7a0c2fb3e,WYFI,38848118,19.54,759092288,EQUITY,https://finance.yahoo.com/quote/WYFI/,ok,2026-09-06T01:08:48.199724+00:00
+XLK,State Street Technology Select Sector SPDR ETF • Robinhood Token,0x15cd20759ce7f3285c29a319de2d1a2e098c6f43,XLK,272056000,187.28,,ETF,https://finance.yahoo.com/quote/XLK/,ok,2026-09-06T01:08:49.735534+00:00
+XNDU,Xanadu Quantum • Robinhood Token,0xa8eb3bccbf2017ee7cbfb652eb51cf2e1b153289,XNDU,304393300,9.72,2958703104,EQUITY,https://finance.yahoo.com/quote/XNDU/,ok,2026-09-06T01:08:51.190004+00:00
+XOM,ExxonMobil Holdings Corporation • Robinhood Token,0xf9b46d3d1b22199d4d1025a9cedb540a33f1a2d5,XOM,4111911960,159.47,655726608384,EQUITY,https://finance.yahoo.com/quote/XOM/,ok,2026-09-06T01:08:52.637901+00:00
+ZM,Zoom • Robinhood Token,0x44c4f142009036cf477ed2d09932051843137cf1,ZM,291783711,101.33,29566443520,EQUITY,https://finance.yahoo.com/quote/ZM/,ok,2026-09-06T01:08:54.094739+00:00
+ZS,Zscaler • Robinhood Token,0x7dc013eb55e436f30d7ed1afe4e36d6e45e3c3f7,ZS,163054698,169.8,27686688768,EQUITY,https://finance.yahoo.com/quote/ZS/,ok,2026-09-06T01:08:55.680239+00:00
