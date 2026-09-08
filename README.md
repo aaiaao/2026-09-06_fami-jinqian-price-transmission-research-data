@@ -1,6 +1,6 @@
 # FAMI/JINQIAN research note — supporting data
 
-「株式トークンは、オンチェーンの需要ショックを現物市場へ伝えるのか」の図表・検証台帳です。各データは取得時点のスナップショットであり、現在のAPI・取引画面の表示と一致しない場合があります。
+「[株式トークンは、オンチェーンの需要ショックを現物市場へ伝えるのか](https://hashhub-research.com/articles/2026-09-08-tokenized-stocks-onchain-demand-shock-price-transmission)」の図表・検証台帳です。各データは取得時点のスナップショットであり、現在のAPI・取引画面の表示と一致しない場合があります。
 
 ## 本文のどこで使うか
 
